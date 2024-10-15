@@ -141,6 +141,33 @@ Rights you have as a permanent employee to contribute to open source projects:
 
 # What are the benefits and downsides of open source?
 
+Benefits:
+- Free to use/modify/distribute
+<!-- pause -->
+- Great to learn from
+<!-- pause -->
+- Gives people great tools
+<!-- pause -->
+- Can be a great way to learn a new language/technology
+<!-- pause -->
+- Can even be profitable
+<!-- pause -->
+
+Downsides:
+- Due to the distributed nature of open source projects it can be difficult to
+  get help, to know what people are thinking and to get feedback.
+<!-- pause -->
+- Can be difficult to get started and to know what to work on.
+<!-- pause -->
+- Working for free, can be difficult to justify the time spent.
+<!-- pause -->
+- Software can be of poor quality and not maintained.
+<!-- pause -->
+- Management of the project can be tricky.
+<!-- pause -->
+- Projects can be abandoned (though you can then fork them assuming an
+  appropriate licence).
+
 <!-- end_slide -->
 
 # How can you get involved in open source?
