@@ -26,6 +26,8 @@
 
 # What is Vim/Neovim and why are they great?
 
+![image:width:50%](194723584-3af9e272-b6b9-456a-af88-e1f79e5213e5.png)
+
 - Vim is a modal text editor that is designed to be fast and efficient
 <!-- pause -->
 - Vim is super super powerful as a text editor
