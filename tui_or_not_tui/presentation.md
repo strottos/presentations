@@ -63,6 +63,8 @@ _Sorry, wrong slides. That was the last GUI you'll see in this talk._
 
 - 15+ years experience in software development, platform, architecture, etc
 <!-- pause -->
+- I work at **Wyser AI** (`wyserai.com`), building AI-for-good software for the advice sector
+<!-- pause -->
 - I live in the terminal: Neovim, tmux, codex, and this presentation
 <!-- pause -->
 - Yes, this is a TUI. It's called `presenterm`, these slides are just a markdown file
