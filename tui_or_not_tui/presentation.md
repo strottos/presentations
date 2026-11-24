@@ -331,6 +331,7 @@ Now you need a browser, a build step and **400MB of `node_modules`** to render a
 - **24-bit "truecolor"**: 16 million colours, not 16
 - **Unicode and Nerd Fonts**: box drawing, braille, icons, emoji 🎉
 - **Graphics protocols**: kitty, sixel, iTerm2 (proper pixels in a terminal!)
+- **Kitty keyboard protocol**: unambiguous keys, every modifier, even key-up events
 - **Mouse support**, bracketed paste, focus events, synchronised output
 - **Great libraries** in every language (more on this later)
 
@@ -357,6 +358,7 @@ Now you need a browser, a build step and **400MB of `node_modules`** to render a
 - Up to 6 pixels per character cell
 - 24-bit colour, and it works over SSH
 - No key-up events, so it guesses them
+  (the kitty keyboard protocol fixes this)
 
 ```bash
 ./doomgeneric -iwad doom1.wad
@@ -937,3 +939,4 @@ _`q` to quit_
 - _The Elm Architecture_: `guide.elm-lang.org/architecture`
 - Unicode string length, Henri Sivonen: `hsivonen.fi/string-length`
 - Kitty graphics protocol: `sw.kovidgoyal.net/kitty/graphics-protocol`
+- Kitty keyboard protocol: `sw.kovidgoyal.net/kitty/keyboard-protocol`
